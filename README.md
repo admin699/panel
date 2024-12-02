@@ -1,5 +1,5 @@
 
-![\[!image\](https://i.imgur.com/sm49SMw1.png)](https://i.imgur.com/sm49SMw1.png)
+![\[!image\](https://i.imgur.com/sm49SMw.png)](https://i.imgur.com/sm49SMw.png)
 
 ![Discord](https://img.shields.io/discord/1253782902618194011?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/skyportlabs/panel?style=for-the-badge)
