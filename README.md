@@ -20,7 +20,4 @@ Navigate to `http://localhost:<port>` to access the Skyport Panel. Log in with y
 
 ## Contributing
 Contributions are welcome. Please fork the repository and submit pull requests with your proposed changes.
-
-## License
-(c) 2024 Matt James and contributors. All rights reserved. Licensed under the MIT License.
 =======
