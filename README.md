@@ -3,13 +3,13 @@
 ![Discord](https://img.shields.io/discord/1253782902618194011?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/skyportlabs/panel?style=for-the-badge)
 
-# Skyport Panel
+# WorldCraftLink Panel
 
 ## Overview
-Skyport is an open source panel for managing and operating game servers and applications built using Node.js with Express and Dockerode. [Click here to join our Discord.](https://skyport.privt.xyz/)
+WorldCraftLink is an open source panel for managing and operating game servers and applications built using Node.js with Express and Dockerode. [Click here to join our Discord.](https://WorldCraftLink.privt.xyz/)
 
 ## Installation
-You can read our documentation at [skyport.dev](https://skyport.dev)
+You can read our documentation at [WorldCraftLink.dev](https://skyport.dev)
 
 ## Configuration
 Edit the `config.json` file in the root directory to set up the application settings including the database connection and port.

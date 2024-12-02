@@ -1,18 +1,11 @@
-/*
- *           __                          __ 
-*      _____/ /____  ______  ____  _____/ /_
- *    / ___/ //_/ / / / __ \/ __ \/ ___/ __/
- *   (__  ) ,< / /_/ / /_/ / /_/ / /  / /_  
- *  /____/_/|_|\__, / .___/\____/_/   \__/  
- *           /____/_/                  
- *              
- *  Skyport Panel 0.3.0 (Oz)
+/*           
+ *  WorldCraftLink Panel 0.3.0 (Oz)
  *  (c) 2024 Matt James and contributors
  * 
 */
 
 /**
- * @fileoverview Main server file for Skyport Panel. Sets up the express application,
+ * @fileoverview Main server file for WorldCraftLink Panel. Sets up the express application,
  * configures middleware for sessions, body parsing, and websocket enhancements, and dynamically loads route
  * modules. This file also sets up the server to listen on a configured port and initializes logging.
  */
@@ -230,11 +223,11 @@ app.set('views', [path.join(__dirname, 'views'), ...PluginViewsDir]);
 init();
 
 console.log(chalk.gray(ascii) + chalk.white(`version v${config.version}\n`));
-app.listen(config.port, () => log.info(`Skyport is listening on port ${config.port}`));
+app.listen(config.port, () => log.info(`WorldCraftLink is listening on port ${config.port}`));
 
 app.get('*', async function(req, res){
   res.render('errors/404', {
     req,
-    name: await db.get('name') || 'Skyport'
+    name: await db.get('name') || 'WorldCraftLink'
   })
 });
