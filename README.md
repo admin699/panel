@@ -1,5 +1,6 @@
 
-<<<<<<< HEAD
+![\[!image\](https://i.imgur.com/5ekDgFt.png)](https://i.imgur.com/5ekDgFt.png)
+
 ![Discord](https://img.shields.io/discord/1253782902618194011?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/skyportlabs/panel?style=for-the-badge)
 
@@ -23,4 +24,3 @@ Contributions are welcome. Please fork the repository and submit pull requests w
 ## License
 (c) 2024 Matt James and contributors. All rights reserved. Licensed under the MIT License.
 =======
->>>>>>> e32e3c3ee70a646ee5e0cdb78d36f485fcf45f72
